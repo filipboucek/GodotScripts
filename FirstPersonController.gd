@@ -1,3 +1,10 @@
+# Things that do not work:	Jump, walk acceleration and deceleration
+# Things to add:		Crouch
+#
+# Filip Bouček - 2021
+#
+# Keep in mind, this is an early prototype. It is messy and kinda awfull
+
 extends KinematicBody
 
 var direction = Vector3.ZERO
